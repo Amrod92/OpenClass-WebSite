@@ -9,3 +9,8 @@ The link for the website can be found here: https://amrod92.github.io/WebOpenCla
 The people inside team resposable to create the website:<br>
 -MOHAMMED NADI<br>
 -MANLIO CHITE'<br>
+
+<hr>
+
+<h3>Technologies used for this application:</h3>
+<h5>HTML5 - CSS3 - Vanilla JavaScript</h5>
